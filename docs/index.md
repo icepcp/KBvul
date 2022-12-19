@@ -4,7 +4,7 @@ layout: home
 hero:
   name: KBvul,
   text: community-powered.
-  tagline: a knowledge base on known vulnerabilities to help secure your code
+  tagline: a knowledge base on known vulnerabilities to help prevent attacks
   actions:
     - theme: brand
       text: start securing your code
@@ -16,7 +16,7 @@ features:
   - icon: 🛡️
     title: protect your site with proven solutions
   - icon: 📝
-    title: contribute by creating new issues
+    title: contribute by creating new issues on github
   - icon: 👁️
     title: view vulnerabilities in action via videos
   - icon: 🧑‍💻
