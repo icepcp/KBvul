@@ -1,0 +1,18 @@
+{
+  "name": "KBvul",
+  "version": "1.0.0",
+  "description": "A knowledge base with known vulnerabilities to help prevent attacks.",
+  "main": "index.js",
+  "repository": "https://github.com/icepcp/KBvul",
+  "author": "Aung Kaung Myat <69038584+icepcp@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.32",
+    "vue": "^3.2.45"
+  },
+    "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  }
+}
